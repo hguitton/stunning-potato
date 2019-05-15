@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pages on Hugo Guitton</title>
+    <link>/pages/</link>
+    <description>Recent content in Pages on Hugo Guitton</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <managingEditor>guitton.h@gmail.com (Hugo Guitton)</managingEditor>
+    <webMaster>guitton.h@gmail.com (Hugo Guitton)</webMaster>
+    <lastBuildDate>Wed, 15 May 2019 00:59:28 +0200</lastBuildDate>
+    
+	<atom:link href="/pages/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Showcase</title>
+      <link>/showcase/</link>
+      <pubDate>Wed, 15 May 2019 00:59:28 +0200</pubDate>
+      <author>guitton.h@gmail.com (Hugo Guitton)</author>
+      <guid>/showcase/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>About me</title>
+      <link>/about/</link>
+      <pubDate>Wed, 15 May 2019 00:56:02 +0200</pubDate>
+      <author>guitton.h@gmail.com (Hugo Guitton)</author>
+      <guid>/about/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
